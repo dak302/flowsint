@@ -1,0 +1,1 @@
+Start with one domain. Right-click, run an enricher, and every result lands as a new node in your graph: subdomains, IPs, ASNs, WHOIS, emails. Flowsint is open-source OSINT graph exploration, self-hosted with `make prod`: github.com/reconurge/flowsint
